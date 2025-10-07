@@ -8,4 +8,4 @@ export default async function Reviewdetails({params}:
     <h1>Of the product of {productId}</h1>
     </>
     );
-}
+} 
